@@ -1,0 +1,7 @@
+streamlit
+torch
+torchvision
+Pillow
+numpy
+intel-openmp
+msvc-runtime
